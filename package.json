@@ -1,0 +1,20 @@
+{
+  "name": "dotenv",
+  "version": "0.0.0",
+  "description": ".env file override process.env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bencevans/node-dotenv.git"
+  },
+  "keywords": [
+    "env",
+    "file",
+    "config"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT"
+}
